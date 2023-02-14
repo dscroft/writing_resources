@@ -1,3 +1,9 @@
+---
+permalink: /backups
+layout: page
+title: Backups
+---
+
 # Backups
 
 Have a system that automatically backs up all your work, ideally online.
