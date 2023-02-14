@@ -4,8 +4,6 @@ layout: page
 title: Backups
 ---
 
-# Backups
-
 Have a system that automatically backs up all your work, ideally online.
 Have a pendrive that you occasionally remember to copy things onto and then store in the same bag your laptop isn't good enough.
 

@@ -1,3 +1,9 @@
+---
+permalink: /structure
+layout: page
+title: Structure
+---
+
 # 
 
 ## General dissertation structure

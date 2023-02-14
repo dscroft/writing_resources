@@ -1,3 +1,9 @@
+---
+permalink: /references
+layout: page
+title: References
+---
+
 # Finding sources
 
 Crowdsourced websites such as Wikipedia are not acceptable sources for academic work as they can be edited by anyone.

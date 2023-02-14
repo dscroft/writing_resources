@@ -1,3 +1,9 @@
+---
+permalink: /grammar
+layout: page
+title: Grammar
+---
+
 # Proofreading
 
 Making sure to proof read your documents before you submit.

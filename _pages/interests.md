@@ -1,3 +1,9 @@
+---
+permalink: /interests
+layout: page
+title: Interests
+---
+
 ## Research interests
 
 My main interest at present is robotics and autonomous vehicles, with a particular enthusism for projects related to the Formula Student AI competition and

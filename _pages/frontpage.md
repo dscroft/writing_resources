@@ -7,15 +7,14 @@ list_title: My blog posts
 
 # General resources
 
-- [backups](backups.md)
-
+- [Backups](/backups)
 
 # Writing resources
 
 ## Project ideas
 
-- Supervision interests
-- Project proposal
+- [Supervision interests](/interests)
+- [Project proposal](/proposal)
 
 ## Citations
 

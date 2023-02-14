@@ -1,3 +1,9 @@
+---
+permalink: /in_text_cite
+layout: page
+title: In text citations
+---
+
 # In text citations
 
 In text citations are the bits of text in brackets that appear in the text that you write to let the reader know where they can find the supporting evidence for the point that you are making or what the original source of the information that you are present is.

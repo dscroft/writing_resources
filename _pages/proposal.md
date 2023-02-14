@@ -1,3 +1,9 @@
+---
+permalink: /proposal
+layout: page
+title: Proposal
+---
+
 # Proposal
 
 Every year I get approached by students asking if I will supervise but when I
