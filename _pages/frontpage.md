@@ -7,7 +7,7 @@ list_title: My blog posts
 
 # General resources
 
-- [Backups](/backups)
+- [Backups](backups.md)
 
 # Writing resources
 
