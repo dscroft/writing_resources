@@ -8,7 +8,7 @@ title: In text citations
 
 In text citations are the bits of text in brackets that appear in the text that you write to let the reader know where they can find the supporting evidence for the point that you are making or what the original source of the information that you are present is.
 
-Importantly the in text citation (everything in brackets), is not a grammatical object and does not form part of the sentence. 
+Importantly the in-text citation (everything in brackets), is not a grammatical object and does not form part of the sentence. 
 Your sentences have to make sense and be grammatically correct if everything in brackets is removed.
 
 For example:
