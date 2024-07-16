@@ -151,7 +151,7 @@ analyse, I frankly don't recommend you do a project like this. A project like
 this definitely could be good, but I have yet to mark a good one (Computing
 and related subjects).
 
-- I am going to run my software - Well duh! But you're not actuallynsaying anything.
+- I am going to run my software - Well duh! But you're not actually saying anything.
 - I am going to test my software - How? just saying I'm gunna test it doesn't mean anything.
 - I am going to test my software to see if it is better - Better that what? Sliced bread? Being punched in the face? Star Wars episode I?
 - I am going to test my software to see if it is better than the old software - Better doesn't mean anything on it's own, better how?

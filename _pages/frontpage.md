@@ -16,6 +16,11 @@ list_title: Resources
 - [Supervision interests.](interests.md)
 - [Project proposal.](proposal.md)
 
+## Software
+
+- [Word etc.]()
+- [Markdown.]()
+
 ## Citations
 
 - [In text citations.](in_text_cite.md)
