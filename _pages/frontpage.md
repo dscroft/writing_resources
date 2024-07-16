@@ -1,32 +1,31 @@
 ---
-permalink: /
+permalink: /frontpage
 layout: home
 title: READ ME
-list_title: Resources
+list_title: Writing resources
 ---
 
-# General resources
+# Project ideas
 
-- [Backups.](backups.md)
+- [Supervision interests.](/interests)
+- [Project proposal.](/proposal)
 
-# Writing resources
+# Structure
 
-## Project ideas
+- [Thesis structure.](/structure)
 
-- [Supervision interests.](interests.md)
-- [Project proposal.](proposal.md)
+# Software
 
-## Software
-
-- [Word etc.]()
+- [Backups.](/backups)
+- [Word etc.](/word)
 - [Markdown.]()
 
-## Citations
+# Citations
 
-- [In text citations.](in_text_cite.md)
-- [Citation management.](citation_management.md)
+- [In text citations.](/in_text_cite)
+- [Citation management.](/citation_management)
 
-## Writing
+# Writing
 
 - Writing style.
 - Spelling and grammar.

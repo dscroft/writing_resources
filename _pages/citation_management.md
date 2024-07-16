@@ -1,4 +1,8 @@
-# Citation management
+---
+permalink: /citation_management
+layout: page
+title: Citation Management
+---
 
 ## Writing by hand
 
