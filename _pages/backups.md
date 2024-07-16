@@ -4,8 +4,11 @@ layout: page
 title: Backups
 ---
 
-Have a system that automatically backs up all your work, ideally online.
-Have a pendrive that you occasionally remember to copy things onto and then store in the same bag your laptop isn't good enough.
+It is vital that your dissertation is backed up.
+
+Having a pendrive that you occasionally remember to copy things onto and then store in the same bag your laptop isn't good enough.
+
+I strongly recommend that you use a system that automatically backs up all your work, ideally online. In an age of cloud providers and free accounts there really is no excuse.
 
 My rule is if it would be lost in a direct meteor strike then it's not backed up. 
 A minimum of two copies, at least one of them offsite.
