@@ -20,7 +20,7 @@ layout: home
 
 # Software
 
-- [Backups.](/backups)
+- [Backups.](backups)
 - [Word etc.](/word)
 - [Markdown.]()
 
