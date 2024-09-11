@@ -68,8 +68,8 @@ before?
 - I want to train a neural network - It's been done.
 - I want to train a neural network to detect objects in images - It's been done.
 - I want to train a neural network to identify objects in images for self-driving cars - It's been done.
-- I want to train a neural network to identify traffic cones for the Warwick Univeristy self-driving race car - I'm getting interested, it's been done but only a couple of times.
-- I want to train a neural network to identify traffic cones for the Warwick Univeristy self-driving race car that is better than the previous networks - Oooh, I like this idea.
+- I want to train a neural network to identify traffic cones for the Warwick University self-driving race car - I'm getting interested, it's been done but only a couple of times.
+- I want to train a neural network to identify traffic cones for the Warwick University self-driving race car that is better than the previous networks - Oooh, I like this idea.
   
 ## Why should I care?
 
