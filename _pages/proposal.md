@@ -18,7 +18,7 @@ thought about them, as part of your dissertation project we would be exploring
 and developing these areas further.
 
 You need to have these answered by the time you submit your detailed project
-proposal and this information should be in that document. Alternatively if your
+proposal and this information should be in that document. Alternatively, if your
 project module does not have a proposal submission you need to have these
 answered before you start working on the main body of your project.
 
@@ -47,7 +47,7 @@ What is it that you are going to have actually produced at the end of the projec
 
 It is important to mention that you generally do not need to produce a final
 commercial product, for many projects a proof of concept is all that is required.
-Your output may barely functional and held together with duct tape, but you
+Your output may barely be functional and held together with duct tape, but you
 have demonstrated that the idea is possible if you were to take it further in the
 future.
 
@@ -55,11 +55,11 @@ future.
 ## How is your thing different?
 
 Ok so you are going to produce a thing. 
-It's unlikely that you're creating a entirely new category of thing, more than likely it's an improvement or a variation on an existing thing. 
+It's unlikely that you're creating an entirely new category of thing, more than likely it's an improvement or a variation on an existing thing. 
 Now, it does not need to be big, but you can't just do the same thing that has been done 100 times before because that's boring and also pointless.
 
 Short version, if there is a tutorial online telling you how to do it, then it's too
-generic for a dissertation project. Which is not to say that your can't use online
+generic for a dissertation project. This is not to say that you can't use online
 tutorials, but that can't be the entirety of your project.
 
 So how is your thing different from all the similar things that have been created
@@ -67,9 +67,9 @@ before?
 
 - I want to train a neural network - It's been done.
 - I want to train a neural network to detect objects in images - It's been done.
-- I want to train a neural network to identify objects in images for self driving cars - It's been done.
-- I want to train a neural network to identify traffic cones for the Coventry Univeristy self driving race car - I'm getting interested, it's been done but only a couple of times.
-- I want to train a neural network to identify traffic cones for the Coventry Univeristy self driving race car that is better than the previous networks - Oooh, I like this idea.
+- I want to train a neural network to identify objects in images for self-driving cars - It's been done.
+- I want to train a neural network to identify traffic cones for the Warwick Univeristy self-driving race car - I'm getting interested, it's been done but only a couple of times.
+- I want to train a neural network to identify traffic cones for the Warwick Univeristy self-driving race car that is better than the previous networks - Oooh, I like this idea.
   
 ## Why should I care?
 
@@ -78,8 +78,8 @@ the audience for this and why does it matter?
 
 - I want to develop a new app - There are thousands of new apps every day, I don't care.
 - I want to develop a new Flappy Birds app - I don't care about Flappy Birds v2.
-- I want to develop a new Flappy Birds app that helps to teach people identify real birds - I'm slightly more interested, but why do we care if people can identify birds?
-- I want to develop a new Flappy Birds app that helps to teach people identify real birds so they can help with conservation - Oooh, I'm interested, conservation is important.
+- I want to develop a new Flappy Birds app that helps to teach people to identify real birds - I'm slightly more interested, but why do we care if people can identify birds?
+- I want to develop a new Flappy Birds app that helps to teach people to identify real birds so they can help with conservation - Oooh, I'm interested, conservation is important.
   
 
 ## How are you going to know if your thing is any good?
@@ -93,7 +93,7 @@ So what exactly are you trying to improve?
 
 If it's a website, is it a good website?
 
-- Is it faster/smaller/more userfriendly/better looking/more features?
+- Is it faster/smaller/more user-friendly/better looking/more features?
 
 
 If it's a piece of software, is it a good piece of software?
@@ -142,11 +142,11 @@ solutions to the old solutions. Is it more accurate, precise or has better recal
 
 If your *thing* is supposed to be more user friendly, show it to a bunch of people
 and ask which one they prefer. This is qualitative data and starts to get tricker
-than just comparing quantiative data (e.g. times) but can be done without too
+than just comparing quantitative data (e.g. times) but can be done without too
 much fuss.
 
 If your *thing* is a set of recommendations, you could show them to subject
-experts and get their feedback. This is qualitative data and much tricker to
+experts and get their feedback. This is qualitative data and much trickier to
 analyse, I frankly don't recommend you do a project like this. A project like
 this definitely could be good, but I have yet to mark a good one (Computing
 and related subjects).
@@ -154,8 +154,8 @@ and related subjects).
 - I am going to run my software - Well duh! But you're not actually saying anything.
 - I am going to test my software - How? just saying I'm gunna test it doesn't mean anything.
 - I am going to test my software to see if it is better - Better that what? Sliced bread? Being punched in the face? Star Wars episode I?
-- I am going to test my software to see if it is better than the old software - Better doesn't mean anything on it's own, better how?
-- I am going to test my software to see if it more efficient than the old software - Efficent can mean many things, time, memory, storage space, user interactions, what?
+- I am going to test my software to see if it is better than the old software - Better doesn't mean anything on its own, better how?
+- I am going to test my software to see if it more efficient than the old software - Efficient can mean many things, time, memory, storage space, user interactions, what?
 - I am going to test my software to see if it is faster than the old software - Ok, a good clear target, but how exactly are you going to know if it is faster?
 - I am going to test my software to see if it is faster than the old software by running both pieces of software through
 multiple tests and timing how long each one takes to complete. Then I can compare the times and see which one is lower on average. - Excellent, I like this plan.
