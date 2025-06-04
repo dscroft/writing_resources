@@ -22,6 +22,14 @@ proposal and this information should be in that document. Alternatively if your
 project module does not have a proposal submission you need to have these
 answered before you start working on the main body of your project.
 
+## ML projects
+
+Although I am personally interested in and working with machine learning, I must warn students away from the 'generic' machine learning projects that have been so popular in recent years.
+These projects generally involve taking a publicly available dataset, applying some machine learning technique to it in a trivial manner (e.g. using a pre-trained supervised model), and then writing a report on the results.
+
+Importantly, neural network libraries like TensorFlow, PyTorch, Numpy and Pandas are sufficiently mature and easy to use at this point that these projects are no longer challenging enough. 
+They might be justified for an undergraduate project if there are mitigating factors but they are not suitable for a Master's level project.
+
 
 # Questions
 
@@ -41,6 +49,7 @@ that did not exist when you started, it could be:
 - A dataset.
 - A new fact.
 - A series of recommendations.
+- A piece of analysis.
 - Or something else.
 
 What is it that you are going to have actually produced at the end of the project?
@@ -56,21 +65,23 @@ future.
 
 Ok so you are going to produce a thing. 
 It's unlikely that you're creating a entirely new category of thing, more than likely it's an improvement or a variation on an existing thing. 
-Now, it does not need to be big, but you can't just do the same thing that has been done 100 times before because that's boring and also pointless.
+Now, it does not need to be big. But you can't just do the same thing that has been done 100 times before because that's boring and also pointless.
 
 Short version, if there is a tutorial online telling you how to do it, then it's too
-generic for a dissertation project. Which is not to say that your can't use online
-tutorials, but that can't be the entirety of your project.
+generic for a dissertation project. 
+Which is not to say that your can't use online tutorials, but that can't be the entirety of your project.
 
 So how is your thing different from all the similar things that have been created
 before?
 
 - I want to train a neural network - It's been done.
-- I want to train a neural network to detect objects in images - It's been done.
-- I want to train a neural network to identify objects in images for self driving cars - It's been done.
-- I want to train a neural network to identify traffic cones for the Coventry Univeristy self driving race car - I'm getting interested, it's been done but only a couple of times.
-- I want to train a neural network to identify traffic cones for the Coventry Univeristy self driving race car that is better than the previous networks - Oooh, I like this idea.
-  
+- I want to train a convolutional network to detect objects in images - It's been done.
+- I want to train a convolutional network to identify objects in images for self driving cars - It's been done.
+- I want to train a convolutional network to identify traffic cones for a self driving race car - I'm getting interested, it's been done but only a couple of times.
+- I want to train a convolutional network to identify traffic cones for a self driving race car that is better than the previous networks - It's been done, but we are getting into the realm of research now.
+- I want to explore other neural network designs to see if they can improve traffic cone identification for a self driving race car - Oooh, now we are getting interesting, you are exploring the space of possible solutions without an obvious answer and trying to find a better one. 
+
+
 ## Why should I care?
 
 Why should I, or anyone else care if you manage to create this thing? Who is
@@ -83,6 +94,7 @@ the audience for this and why does it matter?
   
 
 ## How are you going to know if your thing is any good?
+
 You can't just produce a thing, you need to produce a good thing. 
 But good is such a vague term, computing almost always involves compromises somewhere.
 You can make something faster but it needs more power. You can make something
@@ -93,12 +105,12 @@ So what exactly are you trying to improve?
 
 If it's a website, is it a good website?
 
-- Is it faster/smaller/more userfriendly/better looking/more features?
+- Is it faster/smaller/more user-friendly/better looking/more features?
 
 
 If it's a piece of software, is it a good piece of software?
 
-- Does it work faster/less memory/more userfriendly than existing software?
+- Does it work faster/less memory/more user-friendly than existing software?
 - Is it the first piece of software to solve a given problem? Can we solve it faster/better than we could before because we have this software?
 
 
@@ -142,20 +154,21 @@ solutions to the old solutions. Is it more accurate, precise or has better recal
 
 If your *thing* is supposed to be more user friendly, show it to a bunch of people
 and ask which one they prefer. This is qualitative data and starts to get tricker
-than just comparing quantiative data (e.g. times) but can be done without too
+than just comparing quantitative data (e.g. times) but can be done without too
 much fuss.
 
 If your *thing* is a set of recommendations, you could show them to subject
 experts and get their feedback. This is qualitative data and much tricker to
 analyse, I frankly don't recommend you do a project like this. A project like
-this definitely could be good, but I have yet to mark a good one (Computing
+this definitely could be good, but I have yet to mark any outstanding ones (Computing
 and related subjects).
 
 - I am going to run my software - Well duh! But you're not actually saying anything.
-- I am going to test my software - How? just saying I'm gunna test it doesn't mean anything.
-- I am going to test my software to see if it is better - Better that what? Sliced bread? Being punched in the face? Star Wars episode I?
+- I am going to test my software - How? Just saying I'm gunna test it doesn't mean anything.
+- I am going to test my software to see if it is better - Better that what? Sliced bread? Being punched in the face? Live action remakes of classic Disney movies?
 - I am going to test my software to see if it is better than the old software - Better doesn't mean anything on it's own, better how?
-- I am going to test my software to see if it more efficient than the old software - Efficent can mean many things, time, memory, storage space, user interactions, what?
+- I am going to test my software to see if it more efficient than the old software - Efficient can mean many things, time, memory, storage space, user interactions, what?
 - I am going to test my software to see if it is faster than the old software - Ok, a good clear target, but how exactly are you going to know if it is faster?
 - I am going to test my software to see if it is faster than the old software by running both pieces of software through
 multiple tests and timing how long each one takes to complete. Then I can compare the times and see which one is lower on average. - Excellent, I like this plan.
+

@@ -13,7 +13,7 @@ You can use Wikipedia as a starting point for your research but look at the sour
 
 Different types of sources are formatted in different ways.
 
-When you are citing a source, you must cite it according to the format that it was released in.
+When you are citing a source, you must cite it according to the format that it was originally released in.
 Don't cite everything as a website just because you did all your research online.
 
 - If you are reading a book that has been digitised, you cite it as a book, not as a website.

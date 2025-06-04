@@ -10,13 +10,15 @@ No issues there but it is important that you make use of the functionality of yo
 It is one thing to have formatting issues or incorrect page counts when writing a document by hand, it is quite another to have them when writing in word processing software that can handle all of that for you automatically.
 
 Below is a list of functionality that exists in Word that I expect you to make use of when submitting work. 
-If you are not using MS Word then there almost certainly equivalent functionality but you will need to find appropriate instructions yourself.
+If you are not using MS Word, then there almost certainly equivalent functionality but you will need to find appropriate instructions yourself.
 
 ## Caption numbering
 
 ## Automatic table of contents
 
 ## Automatic Bibliography
+
+See the [Citation Management]({{ site.base_url }}{% link _pages/citation_management.md %}) section for more information.
 
 ## Style management
 
