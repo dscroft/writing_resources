@@ -18,7 +18,7 @@ thought about them, as part of your dissertation project we would be exploring
 and developing these areas further.
 
 You need to have these answered by the time you submit your detailed project
-proposal and this information should be in that document. Alternatively if your
+proposal and this information should be in that document. Alternatively, if your
 project module does not have a proposal submission you need to have these
 answered before you start working on the main body of your project.
 
@@ -56,7 +56,7 @@ What is it that you are going to have actually produced at the end of the projec
 
 It is important to mention that you generally do not need to produce a final
 commercial product, for many projects a proof of concept is all that is required.
-Your output may barely functional and held together with duct tape, but you
+Your output may barely be functional and held together with duct tape, but you
 have demonstrated that the idea is possible if you were to take it further in the
 future.
 
@@ -89,8 +89,8 @@ the audience for this and why does it matter?
 
 - I want to develop a new app - There are thousands of new apps every day, I don't care.
 - I want to develop a new Flappy Birds app - I don't care about Flappy Birds v2.
-- I want to develop a new Flappy Birds app that helps to teach people identify real birds - I'm slightly more interested, but why do we care if people can identify birds?
-- I want to develop a new Flappy Birds app that helps to teach people identify real birds so they can help with conservation - Oooh, I'm interested, conservation is important.
+- I want to develop a new Flappy Birds app that helps to teach people to identify real birds - I'm slightly more interested, but why do we care if people can identify birds?
+- I want to develop a new Flappy Birds app that helps to teach people to identify real birds so they can help with conservation - Oooh, I'm interested, conservation is important.
   
 
 ## How are you going to know if your thing is any good?
@@ -155,10 +155,11 @@ solutions to the old solutions. Is it more accurate, precise or has better recal
 If your *thing* is supposed to be more user friendly, show it to a bunch of people
 and ask which one they prefer. This is qualitative data and starts to get tricker
 than just comparing quantitative data (e.g. times) but can be done without too
+than just comparing quantitative data (e.g. times) but can be done without too
 much fuss.
 
 If your *thing* is a set of recommendations, you could show them to subject
-experts and get their feedback. This is qualitative data and much tricker to
+experts and get their feedback. This is qualitative data and much trickier to
 analyse, I frankly don't recommend you do a project like this. A project like
 this definitely could be good, but I have yet to mark any outstanding ones (Computing
 and related subjects).
